@@ -41,11 +41,11 @@ Every dataset used can be found under the Index of heart disease datasets from U
 
 Models:
 
-LogisticRegression model
+Logistic Regression model
 
 KNN Model
 
-KNN Model
+AdaBoost
 
 XGBoost
 
