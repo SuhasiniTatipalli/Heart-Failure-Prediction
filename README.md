@@ -52,3 +52,5 @@ XGBoost
 Results & Conclusion:
 
 After evaluation of various model performances, the best perfoming model I would recommend is KNN model. In this project my target is to decrease False Negatives and make it equals to zero. KNN model worked best at a decision threshold of 0.3 with accuracy of 89%. False negative count went down to 0.038% which is lower than all other models trained.
+
+
